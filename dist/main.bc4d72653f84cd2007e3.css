@@ -348,4 +348,4 @@ template {
   display: none;
 }
 
-@font-face{font-family:"Montserrat";src:url(fonts/montserrat-v23-latin_cyrillic-700.woff2) format("woff2"),url(fonts/montserrat-v23-latin_cyrillic-700.woff) "woff"}body{font-family:"Montserrat";background-color:#373713;color:#aaa;display:grid;transition:all .5s;-webkit-user-select:none;-moz-user-select:none;user-select:none;background:linear-gradient(to bottom, white, black)}
+@font-face{font-family:"Montserrat";src:url(fonts/montserrat-v23-latin_cyrillic-700.woff2) format("woff2"),url(fonts/montserrat-v23-latin_cyrillic-700.woff) "woff"}body{font-family:"Montserrat";background-color:#373713;color:#aaa;display:grid;transition:all .5s;-webkit-user-select:none;-moz-user-select:none;user-select:none;background:linear-gradient(to bottom, white, black)}.image{width:1000px;height:500px;background-size:cover;background-image:url(assets/XfbyQm8THyno1Xjf.jpg)}

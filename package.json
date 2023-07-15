@@ -20,6 +20,7 @@
     "group-css-media-queries-loader": "^4.3.0",
     "html-loader": "^4.2.0",
     "html-webpack-plugin": "^5.5.3",
+    "image-webpack-loader": "^8.1.0",
     "mini-css-extract-plugin": "^2.7.6",
     "postcss-loader": "^7.3.3",
     "postcss-preset-env": "^9.0.0",
